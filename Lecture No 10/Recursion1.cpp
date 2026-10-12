@@ -1,4 +1,4 @@
-// Que :- Sum Of N Natural Numbers Using Recursion
+// Que :- Sum Of N Natural Numbers Using Recursion (Parametarized)
 
 #include<iostream>
 using namespace std;
